@@ -1,4 +1,4 @@
-# E-Commerce Backend System with Database Integration
+oo# E-Commerce Backend System with Database Integration
 
 ## 📋 Project Overview
 This project is an enterprise-grade E-Commerce Backend System designed to handle core online retail operations. Built using **Spring Boot 3.x** and **Spring Data JPA**, the system delivers robust data persistence layer integration against a containerized **PostgreSQL** instance. 
@@ -174,11 +174,8 @@ Verified JPA Pageable metadata tracking and active localized inventory records.
 
 ## 🎓 About the Developer
 
-Name: Gaurav Chauhan  
+Name: Megha Gupta 
 
-Education: BCA+MCA Dual Degree, Amity University Noida (2027)   
-
-Focus: Full-Stack Development, Data Analytics, and Cloud Computing
 
 
 
